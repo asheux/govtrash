@@ -1,0 +1,5 @@
+venv/
+runs/
+dataset/
+yolov8n.pt
+trash_detection_model.pt
